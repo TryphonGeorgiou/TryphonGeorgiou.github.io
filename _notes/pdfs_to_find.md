@@ -1,0 +1,55 @@
+# Papers on the publications page still without a link
+
+- 2026 — On a universal descriptor for quantum state information: a non-commutative extension of the Born rule
+- 2026 — Chebyshev polynomials meet Nevanlinna–Pick interpolation: An automated procedure for algorithm synthesis
+- 2025 — Schrödinger bridges and Monge cycles: From thermodynamics to ensemble control and back, plenary lecture (abstract)
+- 2022 — Lossless continuously adjustable devices
+- 2022 — Mechanical realisation of a lossless adjustable two-port transformer
+- 2022 — Lossy Schrödinger bridges: The most likely transport between unbalanced marginals
+- 2021 — Controlling Uncertainty: Schrödinger's Inference Method and the Optimal Steering of Probability Distributions
+- 2018 — A relaxed maximum entropy approach to robust network routing
+- 2016 — Synchronisation in Multi-Agent Systems Coordinated via Graph Laplacians with Negative Weights
+- 2016 — An alternating minimization algorithm for structured covariance completion problems
+- 2016 — Ricci Curvature and Robustness of Cancer Networks
+- 2016 — Bakry-Emery Ricci Curvature on Weighted Graphs with Applications to Biological Networks
+- 2016 — Non-commutative Sinkhorn theorem and generalizations
+- 2016 — Laplacian Global Similarity of Networks
+- 2016 — Optimal steering of Ensembles
+- 2016 — Matricial Wasserstein and Unsupervised Tracking
+- 2016 — Some geometric ideas for feature enhancement of diffusion tensor fields
+- 2016 — Stochastic control, entropic interpolation and gradient flows on Wasserstein product spaces
+- 2015 — Low-Complexity Stochastic Modeling of Turbulent Flows
+- 2015 — On Cooling of Stochastic Oscillators
+- 2014 — Completion of partially known turbulent flow statistics via convex optimization
+- 2013 — The role of past and future in estimation and the reversibility of stochastic processes
+- 2012 — Metric Uncertainty for Spectral Estimation based on Nevanlinna-Pick Interpolation
+- 2010 — High resolution analysis via sparsity-inducing techniques: spectral lines in colored noise
+- 2010 — Nonstationary Processes and Spectral Distances
+- 2010 — Reproducing second order statistics of turbulent flows using linearized Navier-Stokes equations with forcing
+- 2007 — The meaning of distances in spectral analysis
+- 2007 — Method and apparatus for speaker verification using a tunable high-resolution spectral estimator
+- 2004 — Moment problems and relative entropy
+- 2004 — Noninvasive tissue temperature estimation via state-covariance spectral estimation
+- 2003 — Robustness of Feedback Systems
+- 2003 — The mixing of state covariances
+- 2002 — Method and Apparatus for a tunable high-resolution spectral estimator
+- 2001 — Spectral analysis via analytic interpolation
+- 2001 — Analytic Interpolation and the Degree Constraint
+- 2000 — Co-invariant subspaces in array processing
+- 1999 — Optimal Finite Wordlength Digital Controller Realization
+- 1999 — A canonical decomposition for state-covariance matrices with application to MUSIC
+- 1997 — Biased norms and metric uncertainty for nonlinear feedback systems
+- 1996 — Input-Output Stability
+- 1995 — Robustness and Performance of Nonlinear Feedback Systems
+- 1995 — Distance Measures for Uncertain Nonlinear Systems
+- 1995 — A variational approach to L_ performance of nonlinear systems
+- 1992 — Identification of linear systems: a stochastic approach based on the graph
+- 1992 — Spectral factorization and Nevanlinna–Pick interpolation: State–space formulae
+- 1992 — Robust stabilization in the gap metric: a geometric approach
+- 1990 — The Schur algorithm: Connections with the difference Riccati equation, the Chandrasekhar algorithm, and square-root filtering
+- 1989 — Uniformly optimal control for nonlinear systems
+- 1989 — On the degeneracy of Toeplitz matrices having a rational symbol
+- 1988 — Spectral factorization of matrix-valued functions using interpolation theory: State-space formulae
+- 1984 — Robotics in Engineering Curriculum
+- 1982 — On the partial realization problem for partial covariance sequences
+- 1981 — Skew prime polynomial matrices and invariant subspaces

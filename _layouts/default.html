@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.url == "/" or page.url == "/index.html" %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<div class="wrap">
+  <nav class="menu">
+    {% for s in site.data.menu %}
+    <div class="menu-section">
+      <div class="menu-head">{{ s.section }}</div>
+      <ul>
+      {% for it in s.items %}
+        {% assign here = page.url | remove_first: "/" %}{% if here == "" %}{% assign here = "index.html" %}{% endif %}
+        {% if it.url contains "://" %}
+        <li><a href="{{ it.url }}">{{ it.title }}</a></li>
+        {% else %}
+        <li><a href="{{ it.url | relative_url }}"{% if it.url == here %} class="current"{% endif %}>{{ it.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </nav>
+  <main class="content">
+    {{ content }}
+    <footer>Updated {{ site.time | date: "%B %-d, %Y" }}</footer>
+  </main>
+</div>
+</body>
+</html>

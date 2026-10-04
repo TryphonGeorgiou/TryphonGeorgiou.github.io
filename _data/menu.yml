@@ -1,0 +1,18 @@
+# Left-hand menu. Each section has a heading and a list of links.
+# Local pages: url: page.html   External: full https:// address.
+- section: Tryphon T. Georgiou
+  items:
+    - { title: "home", url: index.html }
+    - { title: "curriculum vitae", url: Vitae_online.pdf }
+    - { title: "publications", url: publications.html }
+    - { title: "biography", url: bio.html }
+    - { title: "research team", url: students.html }
+    - { title: "SAE racing team", url: formularacing.html }
+
+- section: Links/Resources
+  items:
+    - { title: "IPAM lectures", url: lectures.html }
+    - { title: "Lectures/Podcasts", url: talks.html }
+    - { title: "MTNS 2016 Proceedings", url: "https://conservancy.umn.edu/items/f5c7200d-e4e5-4b8a-9245-7ff60210e3e0" }
+    - { title: "MAE Prelim Exams", url: MAEprelim.html }
+    - { title: "Remembrance", url: remembrance.html }
