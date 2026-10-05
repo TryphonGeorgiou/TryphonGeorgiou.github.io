@@ -2,7 +2,7 @@
 title: "Biography"
 ---
 
-# Biography
+# Tryphon T. Georgiou — Biography
 
 ## Background
 
