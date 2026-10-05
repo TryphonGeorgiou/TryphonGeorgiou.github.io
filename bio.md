@@ -2,6 +2,8 @@
 title: "Biography"
 ---
 
+# Biography
+
 ## Background
 
 - Born in Athens, Greece, on October 18, 1956
