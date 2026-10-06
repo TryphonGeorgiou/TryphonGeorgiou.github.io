@@ -1,0 +1,14 @@
+# Header card shown on every page
+name: "Tryphon T. Georgiou"
+photo: images/Georgiou.jpg
+lines:
+  - "Distinguished Professor"
+  - "Department of Mechanical and Aerospace Engineering"
+  - ""
+  - "University of California, Irvine (UCI)"
+  - "Samueli School of Engineering"
+  - "4200 Engineering Gateway Building, Irvine, CA 92697-3975"
+links:
+  - { title: "tryphon@uci.edu", url: "mailto:tryphon@uci.edu" }
+  - { title: "UCI faculty profile", url: "https://engineering.uci.edu/users/tryphon-georgiou" }
+  - { title: "Google Scholar", url: "https://scholar.google.com/citations?user=DORicfgAAAAJ&hl=en" }

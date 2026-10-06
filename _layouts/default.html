@@ -11,28 +11,31 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
-<div class="wrap">
-  <nav class="menu">
-    {% for s in site.data.menu %}
-    <div class="menu-section">
-      <div class="menu-head">{{ s.section }}</div>
+<div class="page">
+  <header class="banner"><img src="{{ '/images/uci_banner.jpg' | relative_url }}" alt="University of California, Irvine" width="670" height="81"></header>
+  {% assign p = site.data.profile %}
+  <section class="card">
+    <img src="{{ p.photo | relative_url }}" alt="{{ p.name }}">
+    <div class="card-text">
+      <div class="card-name">{{ p.name }}</div>
+      {% for l in p.lines %}{% if l == "" %}<div class="gap"></div>{% else %}<div>{{ l }}</div>{% endif %}{% endfor %}
+      <div class="card-links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.title }}</a>{% unless forloop.last %}<br>{% endunless %}{% endfor %}</div>
+    </div>
+  </section>
+  <div class="body">
+    <nav class="side">
       <ul>
-      {% for it in s.items %}
-        {% assign here = page.url | remove_first: "/" %}{% if here == "" %}{% assign here = "index.html" %}{% endif %}
-        {% if it.url contains "://" %}
-        <li><a href="{{ it.url }}">{{ it.title }}</a></li>
-        {% else %}
-        <li><a href="{{ it.url | relative_url }}"{% if it.url == here %} class="current"{% endif %}>{{ it.title }}</a></li>
-        {% endif %}
+      {% assign here = page.url | remove_first: "/" %}{% if here == "" %}{% assign here = "index.html" %}{% endif %}
+      {% for it in site.data.menu %}
+        <li><a href="{% if it.url contains '://' %}{{ it.url }}{% else %}{{ it.url | relative_url }}{% endif %}"{% if it.url == here %} class="current"{% endif %}>{{ it.title }}</a></li>
       {% endfor %}
       </ul>
-    </div>
-    {% endfor %}
-  </nav>
-  <main class="content">
-    {{ content }}
-    <footer>Updated {{ site.time | date: "%B %-d, %Y" }}</footer>
-  </main>
+    </nav>
+    <main class="content">
+      {{ content }}
+      <footer>Updated {{ site.time | date: "%B %-d, %Y" }}</footer>
+    </main>
+  </div>
 </div>
 </body>
 </html>

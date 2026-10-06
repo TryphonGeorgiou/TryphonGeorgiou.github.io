@@ -2,7 +2,7 @@
 title: "Publications and Reports"
 ---
 
-# Tryphon T. Georgiou — Publications and Reports
+# Publications and Reports
 
 <div class="pubhead" markdown="1">
 [Google Scholar](https://scholar.google.com/citations?user=DORicfgAAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/1702077)\\
