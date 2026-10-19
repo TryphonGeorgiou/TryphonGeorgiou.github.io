@@ -6,6 +6,7 @@ title: "Remembrance"
 
 ## Rudolf E. Kalman (1930–2016)
 
+- [National Academy of Engineering - Memorial Tribute](https://www.nae.edu/19579/19581/20412/29818/Professor-Dr-Rudolf-Kalman)
 - [A personal goodbye](documents/REK/personal.pdf)
 - [ASME In Memoriam](documents/REK/in_memoriam.pdf)
 - [Kalman tribute, CDC 2016](documents/REK/CDC2016.pdf)
