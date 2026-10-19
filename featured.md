@@ -9,7 +9,7 @@ title: "Featured"
 
 **[Ilya Prigogine Prize in Thermodynamics - May 2025](https://quantum-thermodynamics.unibs.it/PrigoginePrize/PrigoginePrize.htm)**\\
 Recipient: Olga Movilla Miangolarra\\
-[In the News!](https://engineering.uci.edu/news/2025/6/engineering-alum-receives-prigogine-prize-thermodynamics)
+[In the News!](https://engineering.uci.edu/news/2025/june/engineering-alum-receives-prigogine-prize-thermodynamics.php)
 </div>
 
 <div class="fig book" markdown="1">
