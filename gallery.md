@@ -9,6 +9,13 @@ title: "Photo Gallery"
 <div class="gallery" markdown="1">
 
 <div class="fig" markdown="1">
+![](images/Nov2026.jpg){: width="270"}
+
+**The team - November 2026**\\
+From the left: Olga, Zachary, Ralph
+</div>
+
+<div class="fig" markdown="1">
 ![](images/jordi_may2025.jpg){: width="270"}
 
 **The team - May 2025**\\
