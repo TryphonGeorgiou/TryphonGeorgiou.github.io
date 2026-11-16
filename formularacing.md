@@ -1,10 +1,8 @@
 ---
-title: "UCI racing teams"
+title: "UCI racing"
 ---
 
-# UCI racing teams
-
-- [Anteater Formula Racing](https://sites.uci.edu/uciracing/anteater-formula-racing/)
+# [Anteater Formula Racing](https://sites.uci.edu/uciracing/anteater-formula-racing/)
 
 <div class="fig" markdown="1">
 ![](images/racing2026_1.jpg){: width="600"}

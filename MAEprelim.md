@@ -4,6 +4,7 @@ title: "MAE Preliminary Exams"
 
 # MAE Preliminary Exams
 
+- [Fall 2026](documents/prelim/2026_Fall.pdf)
 - [Spring 2026](documents/prelim/2026_Spring.pdf)
 - [Fall 2025](documents/prelim/2025_Fall.pdf)
 - [Spring 2025](documents/prelim/2025_Spring.pdf)
