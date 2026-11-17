@@ -693,9 +693,9 @@ Listing by year of completion, or year of publication.
 - [Uncertainty bounds for spectral estimation](http://arxiv.org/abs/1201.4469)\\
   <span class="au">J.Karlsson and T.T. Georgiou</span>
 
-- [Geometric Methods for Spectral Analysis](http://arxiv.org/abs/1107.1345)\\
+- [Geometric Methods for Spectral Analysis](https://doi.org/10.1109/TSP.2011.2178601)\\
   <span class="au">X. Jiang, Zhi-Quan (Tom) Luo and T.T. Georgiou</span>\\
-  <span class="ve">IEEE Trans. on Signal Processing, March 2012</span>
+  <span class="ve">IEEE Trans. on Signal Processing, 60(3): 1064–1074, March 2012</span>
 
 - [Optimal Mass Transport for Problems in Control, Statistical Estimation, and Image Analysis](https://doi.org/10.1007/978-3-0348-0411-0_22)\\
   <span class="au">E. Tannenbaum, T.T. Georgiou and A. Tannenbaum</span>\\
@@ -1063,9 +1063,9 @@ Listing by year of completion, or year of publication.
   <span class="au">U. Walther, T.T. Georgiou and A. Tannenbaum</span>\\
   <span class="ve">IEEE Trans.\ on Automatic Control April 2001</span>
 
-- [A generalized entropy criterion for Nevanlinna-Pick interpolation: A convex optimization approach to certain problems in systems and control](https://doi.org/10.1109/9.928584)\\
+- [A generalized entropy criterion for Nevanlinna–Pick interpolation with degree constraint](https://doi.org/10.1109/9.928584)\\
   <span class="au">C. Byrnes, T.T. Georgiou, and A. Lindquist</span>\\
-  <span class="ve">IEEE Trans.\ on Automatic Control 45(6): 822-839, June 2001</span>
+  <span class="ve">IEEE Trans.\ on Automatic Control 46(5): 822-839, May 2001</span>
 
 - [Computational Algorithms for Sparse Optimal Digital Controller Realizations](https://doi.org/10.1007/978-1-4471-0265-6_7)\\
   <span class="au">I.J. Fialho and T.T. Georgiou</span>\\
@@ -1080,7 +1080,7 @@ Listing by year of completion, or year of publication.
 
 - [A new approach to spectral estimation: A tunable high-resolution spectral estimator](https://doi.org/10.1109/78.875475)\\
   <span class="au">C. Byrnes, T.T. Georgiou, and A. Lindquist</span>\\
-  <span class="ve">IEEE Trans.\ on Signal Processing 48(11): 3189-3206, November 2000</span>
+  <span class="ve">IEEE Trans.\ on Signal Processing 48(11): 3189-3205, November 2000</span>
 
 - [Signal Estimation via Selective Harmonic Amplification: MUSIC redux](https://doi.org/10.1109/78.824672)\\
   <span class="au">T.T. Georgiou</span>\\
