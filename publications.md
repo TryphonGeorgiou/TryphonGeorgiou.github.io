@@ -1243,11 +1243,11 @@ Listing by year of completion, or year of publication.
   <span class="au">T.T.Georgiou and M.C. Smith</span>\\
   <span class="ve">Mathematics of Control, Signals and Systems 6(3): 195-223, 1993</span>
 
-- [Approximation in the gap metric: upper and lower bounds](https://doi.org/10.1109/9.222308)\\
+- [Upper and lower bounds for approximation in the gap metric](https://doi.org/10.1109/9.222308)\\
   <span class="au">T.T. Georgiou and M.C. Smith</span>\\
   <span class="ve">IEEE Trans. on Automatic Control 38(6): 946-951, 1993</span>
 
-- [Robust stability of feedback systems: A geometric approach using the gap metric\\
+- [Robust stability of feedback systems: A geometric approach using the gap metric](https://doi.org/10.1137/0331071)\\
   <span class="au">C.Foias, T.T. Georgiou, and M.C. Smith</span>\\
   <span class="ve">SIAM Journal on Control and Optimization 31(6): 1518-37, November 1993</span>
 
